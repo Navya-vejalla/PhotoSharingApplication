@@ -1,4 +1,6 @@
-**Photo Sharing Application**							                                   - **March 2024 — May 2024**
+**Photo Sharing Application**	
+
+- **March 2024 — May 2024**
     - Designed and implemented a responsive front-end using ReactJS and Material-UI, ensuring an intuitive user experience across devices.
     - Integrated Node.js and Express.js for building a scalable and efficient backend, handling concurrent requests with minimal latency.
     - Implemented a Master-Detail UI pattern for dynamic routing and seamless navigation between user profiles and photo galleries.
